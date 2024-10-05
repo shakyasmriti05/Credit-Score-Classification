@@ -1,0 +1,10 @@
+#ignore word files
+*.doc
+*.docx
+
+#ignore powerpoint
+*.ppt
+*.pptx
+
+#ignore pdf files
+*.pdf
