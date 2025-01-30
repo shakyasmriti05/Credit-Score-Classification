@@ -1,6 +1,9 @@
 # Credit Score Classification
 
-This project is focused on classifying credit scores into three categories: **Good**, **Standard**, and **Bad**. The classification models used in this project include Logistic Regression, Random Forest, and Decision Tree. Data cleaning, scaling, and encoding were performed to prepare the dataset for model training and evaluation.
+## Overview
+This project uses machine learning to classify individuals into credit score categories. The goal is to help financial institutions assess creditworthiness effectively.
+
+It is focused on classifying credit scores into three categories: **Good**, **Standard**, and **Bad**. The classification models used in this project include Logistic Regression, Random Forest, and Decision Tree. Data cleaning, scaling, and encoding were performed to prepare the dataset for model training and evaluation.
 
 ## Dataset
 
